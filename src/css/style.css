@@ -1,0 +1,16 @@
+html,body,main{
+    height: 100%;
+}
+.wrapper{
+    display: flex;
+    gap: 10px;
+    /*width: 100%;*/
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.square{
+    height: 100px;
+    width: 100px;
+    background: red;
+}
